@@ -1,1 +1,1 @@
-# Turtle-Race
+I have built a turtle racing game. And in this game i took a prompt to guess which turtle will win the game using setup and textinput functions. the n took two lists for colors and positions. and i have 6 turtles of did=fferents using for loop and now using while i added game condition such as when x xoordinate of turtle is greater than 230 then the game should and i took a variable for storing winning turtle and i checked with our bet and printed the final winner.
